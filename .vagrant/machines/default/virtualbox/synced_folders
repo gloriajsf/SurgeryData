@@ -1,0 +1,1 @@
+{"virtualbox":{"/home/vagrant/patients":{"type":null,"mount_options":[],"guestpath":"/home/vagrant/patients","hostpath":"/private/var/www/Homestead/patients","disabled":false},"/vagrant":{"guestpath":"/vagrant","hostpath":"/private/var/www/Homestead/patients","disabled":false}}}
