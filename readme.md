@@ -12,9 +12,9 @@ This application displays data retrieved form this API in a user-friendly way.
 
 ## Installation
  Run the following commands from terminal in your projects directory
-	- git clone git@github.com:gloriajsf/SurgeryData.git
-	- cp .env.example .env
-	- composer install(install computer before this step if it haven't been done)
-	- php artisan key:generate
+ 1. git clone git@github.com:gloriajsf/SurgeryData.git
+ 2. cp .env.example .env
+ 3. composer install(install computer before this step if it haven't been done)
+ 4. php artisan key:generate
 
 
