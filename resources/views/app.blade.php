@@ -6,7 +6,7 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<title>Healthcare Data</title>
 
-	<link href="{{ asset('/css/app.css') }}" rel="stylesheet">
+	
 
 	<!-- Fonts -->
 	<link href='//fonts.googleapis.com/css?family=Roboto:400,300' rel='stylesheet' type='text/css'>
@@ -26,7 +26,7 @@
 	<script src="//cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.1/js/bootstrap.min.js"></script>
 	<script type="text/javascript" src="https://cdn.datatables.net/t/dt/dt-1.10.11/datatables.min.js"></script>
 	<!-- bootstrap widget theme -->
-	<link rel="stylesheet" href="/css/theme.bootstrap.min.css">
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
 
 
 </head>
@@ -38,12 +38,11 @@
 
 			<nav class="navbar navbar-default">
 					<div class="navbar-header">
-						<a class="navbar-brand" href="/">Public Healthcare Data by New York State Department of Health</a>
+						<a class="navbar-brand" href="/">Interactive Public Healthcare Data</a>
 					</div>
 			</nav>
             <ul class="nav nav-tabs" id="navbar">
 			  <li class="active"><a data-target="#cadiac" data-toggle="tab">Cardiac Surgery by Surgeon</a></li>
-			  <li><a data-target="#inpatient" data-toggle="tab">Hospital Inpatient Discharges by Facility</a></li>
 			</ul>
 
 			<!--<div class="btn-group" data-toggle="buttons">

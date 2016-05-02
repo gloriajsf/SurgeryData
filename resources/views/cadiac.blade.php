@@ -41,7 +41,7 @@
                 </div>
             </div>
         </div>
-        <div class="tab-pane" id="inpatient">
+        <!--<div class="tab-pane" id="inpatient">
             <div class="row" >  
                 <div class="container-fluid" style="width: 2000 px">
                     <div>
@@ -69,7 +69,7 @@
                     </div>
                 </div>
             </div>
-        </div>
+        </div>-->
     </div>    
 </div>
     
